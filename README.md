@@ -8,7 +8,7 @@ Es un proyecto antiguo y actualmente discontinuado, pero funciona como base téc
 ## 🚀 Características Principales
 
 ### Control de la Nave
-- Movimiento hacia adelante y atrás con **W** y **S**.  
+- Control de la Nave **W**, **S**, **A**, **D**.  {Avanzar, Retroceder, Lateral Izquierdo, Lateral Derecho}
 - Inclinación en el eje X con interpolación **Lerp** para un efecto de **45°** al girar.  
 - Disparo con **clic izquierdo**.  
 - Corrección suave de posición cuando se supera el límite lógico del escenario.
