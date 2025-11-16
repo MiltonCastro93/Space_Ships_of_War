@@ -47,6 +47,9 @@ Se probaron dos sistemas:
 - **Unity 2021**
 - C# para lógica de movimiento y límites
 - Asset pack: **Star Sparrow Modular Spaceship**
+<p align="left">
+  <img src="https://github.com/MiltonCastro93/Space_Ships_of_War/blob/main/icon.jpg" width="500"/>
+</p>
 
 ---
 
