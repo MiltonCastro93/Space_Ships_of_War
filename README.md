@@ -31,18 +31,14 @@ Se probaron dos sistemas:
 
 ## 🖼️ Capturas del Proyecto
 
-> Reemplazá las rutas por las imágenes que subas a tu repositorio.
+> Imagenes del Prototipo
 
 <p align="center">
-  <img src="Images/space_ship_01.png" width="500"/>
+  <img src="https://github.com/MiltonCastro93/Space_Ships_of_War/blob/main/Captura%20de%20pantalla%202025-11-16%20132005.png" width="500"/>
 </p>
 
 <p align="center">
-  <img src="Images/space_ship_02.png" width="500"/>
-</p>
-
-<p align="center">
-  <img src="Images/space_ship_03.png" width="500"/>
+  <img src="https://github.com/MiltonCastro93/Space_Ships_of_War/blob/main/Captura%20de%20pantalla%202025-11-16%20132122.png" width="500"/>
 </p>
 
 ---
